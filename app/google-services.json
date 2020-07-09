@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "795431993117-htcir1094oi9rgl5lp81u9q1ore36ibh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.himachalpradesh",
+            "certificate_hash": "c1a8dab754a22676b95236b190ebb12dd3c3d63d"
+          }
+        },
+        {
+          "client_id": "795431993117-kf5ee53rjmcdnmb47rvbrj0cekhmra49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.himachalpradesh",
+            "certificate_hash": "423cc1b7b474d761f16f68a8e3345bda1027bd42"
+          }
+        },
+        {
           "client_id": "795431993117-e9re3io62olcgcfo9i7gf5pfdli8en7q.apps.googleusercontent.com",
           "client_type": 3
         }
